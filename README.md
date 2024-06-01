@@ -26,7 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Setep
+## Setup
 [Tutorial](setup_readme.md)
 
 ## Installation
